@@ -1,0 +1,7 @@
+git+https://github.com/polkascan/py-scale-codec.git
+imgui[Cython] --no-binary imgui
+httpx
+pytest
+pyglet
+pyopengl
+numpy
